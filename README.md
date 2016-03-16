@@ -1,6 +1,6 @@
 
 
-**PRE-Requisite** in case we **don't** have internet connectivity at the location. 
+**PRE-Requisite** in case we **don't** have internet connectivity at the location.  
 
 1) Do the  initial setup of the  HDP sandbox. The initial root password is hadoop, but you are required to change it.
 
